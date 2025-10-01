@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: HCLIM | Harmonie for climate applications
-description: Documentation for the regional climate model HCLIM
-subfolderitems:
-      - page: Members
-        url: /members.md
+
+docs_list_title: HCLIM | Harmonie for climate applications
+docs:
+- title: Members
+  url: members.md
