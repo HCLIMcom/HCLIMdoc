@@ -1,3 +1,3 @@
 ![HCLIM logo](logos/DMI_HCLIMlogo_Colours.png)
-# HCLIM.github.io
+# hclim.org
 HCLIM general documentation
