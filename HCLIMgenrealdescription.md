@@ -1,5 +1,5 @@
 <p align="center">
- <img src="images/HCLIM_ProjectImage_Colours_lower.png" alt="HCLIM Logo" width="500">
+ <img src="images/HCLIM_ProjectImage_Colours_lower.png" alt="HCLIM Logo" width="750">
 </p>
 
 The **HARMONIE-Climate (HCLIM)** is a regional climate model framework developed jointly by several European national meteorological services. It is the *climate* version of the HIRLAM–ALADIN Research on Mesoscale Operational numerical weather prediction (NWP) in Euromed (HARMONIE) system, with HCLIM development closely linked to HARMONIE advancements.  
