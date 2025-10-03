@@ -24,4 +24,4 @@ HCLIM includes three different atmospheric physics packages—**AROME, ALARO,** 
 - **Ongoing development by European meteorological institutes:**  
   HCLIM is developed by a consortium of [European national meteorological institutes](members.md). 
 
-The latest version, **HCLIM46**, succeeds earlier versions **HCLIM43**, **HCLIM38** (Belušić et al., 2020) and **HCLIM36** (Lindstedt et al., 2015; Lind et al., 2016).  
+The latest version, **HCLIM46**, succeeds earlier versions **HCLIM43**, **HCLIM38** ([Belušić et al., 2020](https://gmd.copernicus.org/articles/13/1311/2020/)) and **HCLIM36** ([Lindstedt et al., 2015](https://a.tellusjournals.se/articles/10.3402/tellusa.v67.24138); [Lind et al., 2016](https://journals.ametsoc.org/view/journals/clim/29/10/jcli-d-15-0463.1.xml)).  
