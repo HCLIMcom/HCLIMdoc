@@ -13,7 +13,7 @@ HCLIM includes three different atmospheric physics packages—**AROME, ALARO,** 
   - **HCLIM-AROME** is designed for convection-permitting resolutions, explicitly resolving deep convection and generally applied at horizontal resolutions finer than 4 km.  
 
 - **Advanced surface parameterization:**  
-  The surface scheme in HCLIM is **SURFEX** (Surface Externalisée; Masson et al., 2013), which represents subgrid surface heterogeneity using four tiles: continental natural surfaces, sea, inland water, and urban areas.  
+  The surface scheme in HCLIM is **SURFEX** (Surface Externalisée; [Masson et al., 2013](https://gmd.copernicus.org/articles/6/929/2013/)), which represents subgrid surface heterogeneity using four tiles: continental natural surfaces, sea, inland water, and urban areas.  
 
 - **Versatile regional climate applications:**  
   HCLIM is used for regional climate projections across various domains, including Europe, the Arctic, and Antarctica.  
