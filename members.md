@@ -20,5 +20,4 @@ HCLIM is developed by a consortium of European national meteorological institute
 
 ### Universities
 
-- Utrecht University, the Netherlands
 - University of Zagreb, Croatia
