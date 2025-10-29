@@ -1,3 +1,3 @@
 ![HCLIM logo](logos/DMI_HCLIMlogo_Colours.png)
-# hclim.org
-HCLIM general documentation
+# Documentation on hclim.org
+This repository contains the documentation on https://www.hclim.org. It uses Github pages & Jekyll to create the pages.
