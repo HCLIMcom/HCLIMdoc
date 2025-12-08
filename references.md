@@ -7,8 +7,8 @@ List of references where HCLIM has been used.
 ### 2025
 
 - Lenderink, G., de Vries, H., van Meijgaard, E., de Rooy, W., van Ulft, L., Thompson, V., Qiu, X., Fowler, H.J., 2025: A pseudo global warming based system to study how climate change affects high impact rainfall events. Weather and Climate Extremes, 100781. https://doi.org/10.1016/j.wace.2025.100781
-- Verro, K., Äijälä, C., Pirazzini, R., Dadic, R., Maure, D., van de Berg, W. J., Traversa, G., van Dalum, C. T., Uotila, P., Fettweis, X., Di Mauro, B., and Johansson, M. 2025: How well do the regional atmospheric and oceanic models describe the Antarctic sea ice albedo?, The Cryosphere, 19, 4409–4436, https://doi.org/10.5194/tc-19-4409-2025
-- Wang, F., Aldama-Campino A., Belušić D., Amorim J. H., Ribeiro I., Wiréhn L., Segersson D., Döscher R., Navarra C., Neset T.S., Lind P. 2025. Interactions of urban heat islands and heat waves in Swedish cities under present and future climates. Urban Clim. 59, 102286. https://doi.org/10.1016/j.uclim.2025.102286
+- Verro, K., Äijälä, C., Pirazzini, R., Dadic, R., Maure, D., van de Berg, W. J., Traversa, G., van Dalum, C. T., Uotila, P., Fettweis, X., Di Mauro, B., and Johansson, M., 2025: How well do the regional atmospheric and oceanic models describe the Antarctic sea ice albedo?, The Cryosphere, 19, 4409–4436, https://doi.org/10.5194/tc-19-4409-2025
+- Wang, F., Aldama-Campino A., Belušić D., Amorim J. H., Ribeiro I., Wiréhn L., Segersson D., Döscher R., Navarra C., Neset T.S., Lind P., 2025: Interactions of urban heat islands and heat waves in Swedish cities under present and future climates. Urban Clim. 59, 102286. https://doi.org/10.1016/j.uclim.2025.102286
 
 ### 2024
 
@@ -67,27 +67,29 @@ List of references where HCLIM has been used.
 
 ### 2015
 
-- Lindstedt, David, Petter Lind, Colin Jones and Erik Kjellström, 2015: A new regional climate model operating at the meso-gamma scale; performance over Europe. Tellus A, 67, 24138. https://doi.org/10.3402/tellusa.v67.24138 ​pdf here!
+- Lindstedt, David, Petter Lind, Colin Jones and Erik Kjellström, 2015: A new regional climate model operating at the meso-gamma scale; performance over Europe. Tellus A, 67, 24138. https://doi.org/10.3402/tellusa.v67.24138
 
 ## Reports and other publications
 
 ### 2023
 
-- Broerze, Annelot E. W., 2023: Assessing the impact of land use changes in South Holland on the local weather using HARMONIE-Climate - Building bridges between water management, climate physics and vector-borne viral outbreaks. Master Thesis, Delft University of Technology.
-- Boonekamp, Maarten, 2023: The Influence of local land use on the local weather. Master Thesis, Utrecht University.
+- Boonekamp, Maarten, 2023: The Influence of local land use on the local weather. Master Thesis, Utrecht University, Utrecht, the Netherlands. https://studenttheses.uu.nl/handle/20.500.12932/45993
+- Broerze, Annelot E. W., 2023: Assessing the impact of land use changes in South Holland on the local weather using HARMONIE-Climate - Building bridges between water management, climate physics and vector-borne viral outbreaks. Master Thesis, Delft University of Technology, Delft, the Netherlands. http://www.srderoode.nl/Students/Annelot_Broerze_thesis.pdf
+- Dorland, R. van, Beersma, J., Bessembinder, J., Bloemendaal, N., van den Brink, H., Brotons Blanes, M., Drijfhout, S., Groenland, R., Haarsma, R., Homan, C., Keizer, I., Krikken, F., Le Bars, D., Lenderink, G., van Meijgaard, E., Meirink, J.F., Overbeek, B., Reerink, T., Selten, F., Severijns, C., Siegmund, P., Sterl, A., de Valk, C., van Velthoven, P., de Vries, H., van Weele, M., Wichers Schreur, B., van der Wiel, K., 2023: KNMI National Climate Scenarios 2023 for the Netherlands. Scientific report; WR-23-02, Royal Netherlands Meteorological Institute (KNMI), de Bilt, the Netherlands. https://cdn.knmi.nl/system/data_center_publications/files/000/071/902/original/KNMI23_climate_scenarios_scientific_report_WR23-02.pdf
+- Lind, Petter, 2023: Kilometer-scale climate modeling of precipitation in the Nordic region. PhD thesis, Stockholm University, Stockholm, Sweden. https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Asu%3Adiva-223603
 
 ### 2022
 
-- Médus, Erika, 2022: Regional climate over Northern Europe: from observations to high-resolution modeling. https://doi.org/10.35614/isbn.9789523361591
+- Médus, Erika, 2022: Regional climate over Northern Europe: from observations to high-resolution modeling. PhD thesis, Finnish Meteorological Institute. https://doi.org/10.35614/isbn.9789523361591
 
 ### 2021
 
-- Storrank, B. (ed.), Stenmark, A., Olsson, J. and Dobler, A., 2021: Downscaling climate projections–towards better adaptation strategies in the Nordic countries. Nordic Council of Ministers. https://doi.org/10.6027/NA2021-901.
+- Storrank, B. (ed.), Stenmark, A., Olsson, J. and Dobler, A., 2021: Downscaling climate projections–towards better adaptation strategies in the Nordic countries. Nordic Council of Ministers. https://doi.org/10.6027/NA2021-901
 
 ### 2014
 
-- Jansson, Christer, Patrick Samuelsson and David Lindstedt, 2014: Using the Town Energy Balance model (TEB) in regional climate simulations over the Netherlands. Deliverable for project "Knowledge for Climate Research Programme (KvK)". ​pdf here!
-- Kjellström, E., Lind, P., Lindstedt, D. and Landelius, T., 2014: Evaluating temperature distributions in a high-resolution RCM at 6 km horizontal resolution over Europe. 3rd International Lund Regional-scale climate modelling workshop. International Baltic Earth Secretariat Publication No. 3, June 2014, pp 229-230. ISSN 2198-4247. ​pdf here!
-- Lind, Petter, David Lindstedt, Colin Jones and Erik Kjellström, 2014: Simulating extreme precipitation in the island of Crete withnon-hydrostatic high resolution RCMs. 3rd International Lund Regional-scale climate modelling workshop. International Baltic Earth Secretariat Publication No. 3, June 2014, p 127. ISSN 2198-4247. ​pdf here!
-- Lindstedt, David, Petter Lind, Colin Jones and Erik Kjellström, 2014: A new regional climate model operating at the meso-gamma scale; performance over Europe. 3rd International Lund Regional-scale climate modelling workshop. International Baltic Earth Secretariat Publication No. 3, June 2014, p 128. ISSN 2198-4247. ​pdf here!
-- Samuelsson, Patrick, Christer Jansson, David Lindstedt and Emma E. Daniels, 2014: Soil moisture–precipitation feedback experiments over the Netherlands with AROME. Deliverable for project "Knowledge for Climate Research Programme (KvK)". ​pdf here! 14.pdf)
+- Jansson, Christer, Patrick Samuelsson and David Lindstedt, 2014: Using the Town Energy Balance model (TEB) in regional climate simulations over the Netherlands. Deliverable for project "Knowledge for Climate Research Programme (KvK)". ​https://edepot.wur.nl/345597
+- Kjellström, E., Lind, P., Lindstedt, D. and Landelius, T., 2014: Evaluating temperature distributions in a high-resolution RCM at 6 km horizontal resolution over Europe. 3rd International Lund Regional-scale climate modelling workshop. International Baltic Earth Secretariat Publication No. 3, June 2014, pp 229-230. ISSN 2198-4247. ​https://www.baltic-earth.eu/events/RCM2014/Material/IBESPS_No.3_low.pdf
+- Lind, Petter, David Lindstedt, Colin Jones and Erik Kjellström, 2014: Simulating extreme precipitation in the island of Crete with non-hydrostatic high resolution RCMs. 3rd International Lund Regional-scale climate modelling workshop. International Baltic Earth Secretariat Publication No. 3, June 2014, p 127. ISSN 2198-4247. ​https://www.baltic-earth.eu/events/RCM2014/Material/IBESPS_No.3_low.pdf
+- Lindstedt, David, Petter Lind, Colin Jones and Erik Kjellström, 2014: A new regional climate model operating at the meso-gamma scale; performance over Europe. 3rd International Lund Regional-scale climate modelling workshop. International Baltic Earth Secretariat Publication No. 3, June 2014, p 128. ISSN 2198-4247. https://www.baltic-earth.eu/events/RCM2014/Material/IBESPS_No.3_low.pdf
+- Samuelsson, Patrick, Christer Jansson, David Lindstedt and Emma E. Daniels, 2014: Soil moisture–precipitation feedback experiments over the Netherlands with AROME. Deliverable for project "Knowledge for Climate Research Programme (KvK)". ​https://edepot.wur.nl/345598
