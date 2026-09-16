@@ -1,5 +1,22 @@
 theme: jekyll-theme-minimal
+
+repository: HCLIMcom/HCLIMdoc
+
 docs_list_title: HCLIM | Harmonie for climate applications
 docs:
+- title: Home 
+  url: /
+
 - title: Members
-  url: members.md
+  url: /members/
+
+- title: News & Announcements
+  url: /news/
+
+- title: References
+  url: /references/
+
+collections:
+  news:
+    output: true
+    permalink: /news/:name/

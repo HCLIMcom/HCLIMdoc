@@ -1,3 +1,8 @@
+---
+layout: default
+title: General Description
+---
+
 ![HCLIM logo](logos/DMI_HCLIMlogo_Colours.png)
 <p align="center">
  <img src="logos/HCLIM_ProjectImage_Colours_1500px.png" alt="HCLIM Logo" width="750">

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "HCLIM consortium members"
+permalink: /members/
+---
+
 # HCLIM consortium
 
 ![HCLIM consortium members](images/consortium_members.svg)
