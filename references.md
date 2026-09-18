@@ -1,3 +1,9 @@
+---
+layout: default
+title: References
+permalink: /references/
+---
+
 # HCLIM references
 
 List of references where HCLIM has been used.
